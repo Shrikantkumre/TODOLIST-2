@@ -1,0 +1,20 @@
+.task{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+}
+.action{
+    display: flex;
+    gap: 20px;
+
+}
+.inputcontainer{
+    display: flex;
+    gap: 20px;
+
+}
+
+.edit{
+    display: none;
+}
